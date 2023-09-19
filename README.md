@@ -9,3 +9,5 @@ Ao final podemos ainda utilizar de redirecionamento de entrada e saída de dados
 - um file output
 
 #### Importante: Esse código é compilado diretamente no terminal, rodando antes o comando javac como o nome da ```.java```, para gerar o file ```.class``` .
+
+*Esse exemplo faz parte de uma lista de exercícios do curso online do [Professor Isidro](https://www.professorisidro.com.br/curso/fundamentos-de-java/)*
