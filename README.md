@@ -1,5 +1,8 @@
-# Meteoritos em uma fazenda
+#Curso Java Professor Isidro
 
+## Esse repositório tem o intuíto de reunir alguns dos exercícios efetuados ao longo das aulas ministradas pelo Professor Isidro no seu curso de Java
+
+### 1. Exercício Meteorítos na fazenda
 Esse exercício tem por finalidade calcular quais meteoritos caídos em uma determinada região (no caso do exemplo, uma fazenda) conforme as seguinte informações são inputadas:
 - As coordenadas x1 e y1 e x2 e y2 que correspondem a duas pontas das área da fazenda (que é um retangulo)
 - As coordenadas x e y de onde o meteorito caiu
