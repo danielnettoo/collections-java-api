@@ -1,6 +1,6 @@
-#Curso Java Professor Isidro
+# Curso Java Professor Isidro
 
-## Esse repositório tem o intuíto de reunir alguns dos exercícios efetuados ao longo das aulas ministradas pelo Professor Isidro no seu curso de Java
+## Esse repositório tem o intuito de reunir alguns dos exercícios efetuados ao longo das aulas ministradas pelo Professor Isidro no seu curso de Java
 
 ### 1. Exercício Meteorítos na fazenda
 Esse exercício tem por finalidade calcular quais meteoritos caídos em uma determinada região (no caso do exemplo, uma fazenda) conforme as seguinte informações são inputadas:
